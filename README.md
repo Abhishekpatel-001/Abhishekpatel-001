@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhishekpatel-001/Abhishekpatel-001/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/Abhishekpatel-001/Abhishekpatel-001/blob/main/Copy%20of%20Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
